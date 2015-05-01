@@ -1,0 +1,14 @@
+[Plymouth Theme]
+Name=CMC_SPIN
+Description=My Little Pony bootsplash CMC version
+ModuleName=script
+
+
+[script]
+ImageDir=/lib/plymouth/themes/cmc_spin
+ScriptFile=/lib/plymouth/themes/cmc_spin/cmc.script
+
+
+
+
+
